@@ -1,0 +1,14 @@
+package com.ecommerce.model;
+
+public class ProductDTO {
+	
+	private int id;
+	private String name_pro;
+	private String category;
+	private String description;
+	private String image;
+	private Double unit_price;
+	private int amount_prod;
+	private String colour;
+
+}
